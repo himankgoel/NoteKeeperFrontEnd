@@ -1,2 +1,0 @@
-# NoteKeeperFrontEnd
-Created with CodeSandbox
